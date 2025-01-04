@@ -1,0 +1,61 @@
+body{background-color: #c9f5e6;
+}
+div{
+    border: 10px double hsla(0, 73%, 34%, 0.659);
+    padding: 20px;
+    margin: 15px;
+    background-color: hsl(78, 68%, 72%);
+}
+p{
+    color: rgb(130, 91, 81);
+    text-align: center;
+    font-family: aSwis721 Ex BT;
+    font-size:120%;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    text-align: center;
+    text-shadow: 2px 2px hsl(0, 77%, 47%);
+}
+table td, th{
+    border: 2px solid;
+    text-align: center;
+    background-color: rgb(125, 149, 90);
+}
+th,tr:hover{
+    color: rgba(14, 19, 148, 0.803);
+}
+tr:hover{
+    color: rgb(253, 10, 10);
+    text-align: center;
+    background-color: hwb(60 7% 4%);
+}
+td, th{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#para1{
+    background-color: #a6faa6;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.cls1{
+    text-align: center;
+    background-color: rgb(68, 169, 125);
+    color: white;
+}
+.cls2{
+    text-align: center;
+    background-color: rgb(152, 186, 96);
+    color: rgb(58, 47, 23);
+}
+img{
+    display: block;
+    margin: auto;
+}
+.cls3{ 
+    display: block;
+    margin: auto;
+}
